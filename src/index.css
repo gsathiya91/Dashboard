@@ -1,0 +1,26 @@
+.table{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  gap: 101px;
+ }
+.admin{
+ padding:100px; 
+ text-align: center;
+}
+.student{
+text-align: center;
+color:cornflowerblue;
+}
+.buttons{
+  margin:10px;
+}
+.teacherform{
+  border:2px solid black;
+  padding:25px;
+  text-align: center;
+}
+.teacher{
+  text-align: center;
+  color:cornflowerblue;
+}
